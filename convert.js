@@ -28,4 +28,3 @@ function kiloMeterToMiles(kilo){
     return mile;
 }
 
-const result
